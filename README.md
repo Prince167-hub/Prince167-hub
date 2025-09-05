@@ -47,10 +47,10 @@
 
 ## 🌐 Connect with Me  
 <p align="center">
-  <a href="www.linkedin.com/in/prince-kumar-728602283" target="_blank">
+  <a href="https://linkedin.com/in/prince-kumar-728602283" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
   </a>
-  <a href="mailto:your-pk658078@gmail.com">
+  <a href="mailto:pk658078@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
