@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5733,100:FFC300&height=180&section=header&fontColor=fff&animation=twinkling" />
 </p>
 
-<h1 align="center" bg_color"black">Hi 👋, I'm Prince Kumar</h1>
+<h1 align="center" bg_color_red>Hi 👋, I'm Prince Kumar</h1>
 <h3 align="center">🚀 Full-Stack Web Developer | Open Source Enthusiast</h3>
 
 <p align="center">
