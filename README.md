@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5733,100:FFC300&height=180&section=header&text=Prince%20Kumar&fontSize=45&fontColor=fff&animation=twinkling" />
+  <img src="[https://capsule-render.vercel.app](https://sdmntprwestus.oaiusercontent.com/files/00000000-86f4-6230-9de2-a564409b3f1c/raw?se=2025-09-05T20%3A34%3A31Z&sp=r&sv=2024-08-04&sr=b&scid=784b9f42-f808-59d0-9029-5f7ac3c42306&skoid=c156db82-7a33-468f-9cdd-06af263ceec8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-09-05T18%3A01%3A49Z&ske=2025-09-06T18%3A01%3A49Z&sks=b&skv=2024-08-04&sig=nvYM4ElMWPQW6icd/7p27EkRvU7kU92VtKL/b8Xf5wI%3D)/api?type=waving&color=0:FF5733,100:FFC300&height=180&section=header&text=Prince%20Kumar&fontSize=45&fontColor=fff&animation=twinkling" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Prince Kumar</h1>
