@@ -19,7 +19,7 @@
 - 🌱 Learning **MERN Stack & React**  
 - 👯 Looking to collaborate on **Open Source**  
 - 💬 Ask me about **JavaScript, React, Node.js, MongoDB**  
-- 📧 Reach me at **your-pk658078@gmail.com**  
+- 📧 Reach me at **pk658078@gmail.com**  
 
 ---
 
@@ -47,7 +47,7 @@
 
 ## 🌐 Connect with Me  
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
+  <a href="www.linkedin.com/in/prince-kumar-728602283" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
   </a>
   <a href="mailto:your-pk658078@gmail.com">
