@@ -2,10 +2,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Hey+👋,+I'm+Prince+Kumar!;Full+Stack+Web+Developer+🚀;Open+Source+Contributor+❤️;Always+Learning+New+Things+🔥" />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5733,100:FFC300&height=180&section=header&fontColor=fff&animation=twinkling" />
-
 </p>
 
-<h1 align="center">Hi 👋, I'm Prince Kumar</h1>
+<h1 align="center" bg_color"black">Hi 👋, I'm Prince Kumar</h1>
 <h3 align="center">🚀 Full-Stack Web Developer | Open Source Enthusiast</h3>
 
 <p align="center">
