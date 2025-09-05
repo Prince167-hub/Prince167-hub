@@ -19,7 +19,7 @@
 - 🌱 Learning **MERN Stack & React**  
 - 👯 Looking to collaborate on **Open Source**  
 - 💬 Ask me about **JavaScript, React, Node.js, MongoDB**  
-- 📧 Reach me at **your-email@example.com**  
+- 📧 Reach me at **your-pk658078@gmail.com**  
 
 ---
 
@@ -50,7 +50,7 @@
   <a href="https://linkedin.com/in/your-profile" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:your-pk658078@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
