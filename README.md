@@ -1,22 +1,17 @@
-<!-- ⚡ MATRIX HACKER GITHUB PROFILE README ⚡ -->
-
+<!-- HACKER-STYLE GITHUB PROFILE README -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=700&color=00FF00&center=true&vCenter=true&width=700&lines=Welcome+to+the+Matrix+🌌;I+Am+Prince+Kumar+👨‍💻;Full+Stack+Web+Developer+⚡;MERN+Stack+Explorer+🚀;Eat+💻+Sleep+😴+Code+♾️+Repeat" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=800&color=00FF00&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Prince+Kumar+👨‍💻;Full-Stack+Web+Developer+🌐;MERN+Stack+Learner+⚡;Always+Exploring+New+Tech+🚀" alt="Typing SVG" />
 </h1>
 
-<!-- MATRIX RAIN GIF -->
+<!-- NEON HACKER GIF -->
 <p align="center">
-  <img src="https://i.gifer.com/VAyR.gif" width="900" alt="matrix-rain" />
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400" alt="hacker-gif" />
 </p>
 
 ---
 
-## 👨‍💻 Whoami
+## 👨‍💻 About Me
 ```bash
-> Initializing system...
-> Loading profile: Prince Kumar
-> Alias       : Prince167-hub
-> Occupation  : Full-Stack Web Developer
-> Location    : India
-> Skillset    : MERN | JavaScript | Web Dev | APIs
-> Status      : Always Learning 🚀
+> whoami
+> Prince Kumar | Web Developer | MERN Enthusiast
+> Passionate about coding, creating, and breaking limits.
