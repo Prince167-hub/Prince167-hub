@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=180&section=header&text=Prince%20Kumar&fontSize=45&fontColor=ffffff&animation=twinkling" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Hey+👋,+I'm+Prince+Kumar!;Full+Stack+Web+Developer+🚀;Open+Source+Contributor+❤️;Always+Learning+New+Things+🔥" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Prince Kumar</h1>
